@@ -15,3 +15,4 @@ This is a playful and interactive web project where the "No" button moves away w
 - Simple & Lightweight - Made with pure HTML, CSS, and JavaScript. 💡
 
 ## Ask Out Your Crush in a Fun Way! 😍💌
+![2025-02-07](https://github.com/user-attachments/assets/776738f3-3ec3-4b0a-9c9b-3a6691c39ffc)
