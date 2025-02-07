@@ -10,7 +10,7 @@ This is a playful and interactive web project where the "No" button moves away w
 
 ## Features
 
-- Interactive UI - The "No" button escapes when hovered. 🏹 
+- Interactive UI - The "Yes" button will keep gets bigger. 🏹 
 - Beautiful Design - Aesthetic and love-themed styling. 🎨 
 - Simple & Lightweight - Made with pure HTML, CSS, and JavaScript. 💡
 
